@@ -1,0 +1,9 @@
+4
+SaltO_SanTIAgO90
+23.6 10 12 19 20 7 22 21 9 15 14 16
+represa_de_furNAs
+20.9 4 8 19 12 19
+represa_de_foZ_Da_ArEIA34
+32.6 8 11 10 14 25 26 23 10 25
+fUrNAS
+47.8 10 21 38 27 22 20 23 21 14 33 47

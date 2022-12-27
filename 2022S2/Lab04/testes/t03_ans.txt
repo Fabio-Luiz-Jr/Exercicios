@@ -1,0 +1,7 @@
+Sub-tropa Forte 1: 72 
+Sub-tropa Forte 2: 93 73 11 
+Sub-tropa Forte 3: 64 
+Sub-tropa Forte 4: 70 -3 22 68 
+Sub-tropa Forte 5: 35 100 
+Sub-tropa Forte 6: 30 77 -27 40 46 
+Sub-tropa Elite: 72 93 73 11 64 70 

@@ -1,0 +1,14 @@
+NOME: serra da mesa
+QTD NIVEIS: 5
+MEDIA: 38
+CAPACIDADE ACIMA DE 90% DA MAXIMA!
+#####
+NOME: sobradinho
+QTD NIVEIS: 7
+MEDIA: 23
+#####
+NOME: ilha solteira
+QTD NIVEIS: 6
+MEDIA: 20
+CAPACIDADE ACIMA DE 90% DA MAXIMA!
+#####

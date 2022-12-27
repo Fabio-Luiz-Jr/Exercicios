@@ -1,0 +1,22 @@
+NOME: porto primavera
+QTD NIVEIS: 4
+MEDIA: 10
+#####
+NOME: xingo
+QTD NIVEIS: 6
+MEDIA: 16
+CAPACIDADE ACIMA DE 90% DA MAXIMA!
+#####
+NOME: porto primavera
+QTD NIVEIS: 4
+MEDIA: 13
+#####
+NOME: foz da areia
+QTD NIVEIS: 4
+MEDIA: 20
+#####
+NOME: emborcacao
+QTD NIVEIS: 7
+MEDIA: 11
+CAPACIDADE ACIMA DE 90% DA MAXIMA!
+#####

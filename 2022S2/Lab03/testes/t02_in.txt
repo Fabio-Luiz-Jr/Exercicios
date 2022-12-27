@@ -1,0 +1,11 @@
+5
+pORTO_PriMaveRA96
+19.9 4 10 5 14 12
+represa_de_xiNgO
+27.4 6 26 8 13 19 14 21
+represa_de_porTO_PRiMaVERa49
+19.9 4 11 16 13 13
+represa_de_foz_dA_AReiA
+32.6 4 25 16 15 24
+eMborCACAO64
+17.6 7 16 9 11 16 6 13 11

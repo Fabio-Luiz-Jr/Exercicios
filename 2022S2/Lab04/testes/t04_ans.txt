@@ -1,0 +1,6 @@
+Sub-tropa Forte 1: -5 
+Sub-tropa Forte 2: -2 
+Sub-tropa Forte 3: -7 
+Sub-tropa Forte 4: -6 
+Sub-tropa Forte 5: -3 
+Sub-tropa Elite: -2 
