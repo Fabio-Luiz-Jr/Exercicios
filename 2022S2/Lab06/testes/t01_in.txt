@@ -1,0 +1,11 @@
+2 2
+FRUTA 0 0
+COBRA 1 1
+w
+a
+FRUTA 1 1
+s
+d
+FRUTA 0 1
+w
+

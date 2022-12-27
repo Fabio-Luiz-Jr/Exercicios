@@ -1,0 +1,406 @@
+15 11
+FRUTA 12 7
+COBRA 4 8
+w
+w
+w
+w
+w
+w
+w
+a
+FRUTA 6 5
+a
+a
+w
+w
+w
+w
+w
+w
+FRUTA 6 10
+w
+d
+d
+d
+d
+d
+s
+FRUTA 4 7
+a
+a
+a
+w
+w
+FRUTA 0 5
+w
+w
+w
+w
+a
+a
+FRUTA 13 8
+w
+w
+d
+d
+d
+FRUTA 12 4
+w
+a
+a
+a
+a
+FRUTA 8 1
+w
+w
+w
+w
+a
+a
+a
+FRUTA 8 8
+w
+d
+d
+d
+d
+d
+d
+d
+s
+FRUTA 10 9
+s
+s
+d
+FRUTA 1 7
+w
+w
+w
+w
+w
+w
+w
+w
+w
+a
+a
+FRUTA 2 0
+a
+a
+a
+a
+a
+a
+a
+s
+FRUTA 9 10
+a
+s
+s
+s
+s
+s
+s
+s
+FRUTA 11 2
+s
+s
+a
+a
+a
+a
+a
+a
+a
+a
+FRUTA 9 9
+a
+a
+w
+w
+w
+a
+a
+s
+FRUTA 10 5
+a
+a
+a
+a
+s
+FRUTA 1 10
+d
+d
+d
+d
+d
+s
+s
+s
+s
+s
+s
+FRUTA 12 5
+a
+a
+a
+a
+a
+w
+w
+w
+w
+FRUTA 0 2
+w
+a
+a
+a
+s
+s
+s
+s
+FRUTA 5 1
+s
+s
+s
+s
+s
+a
+FRUTA 12 4
+a
+a
+s
+s
+s
+s
+s
+s
+s
+s
+s
+a
+a
+a
+a
+a
+a
+w
+w
+FRUTA 12 3
+a
+FRUTA 3 5
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+d
+d
+s
+FRUTA 10 8
+s
+s
+s
+s
+s
+s
+s
+d
+d
+d
+FRUTA 14 10
+d
+d
+s
+s
+s
+s
+FRUTA 11 8
+a
+w
+w
+w
+a
+FRUTA 12 5
+a
+a
+a
+s
+FRUTA 14 3
+s
+s
+a
+a
+FRUTA 7 7
+w
+w
+w
+w
+w
+w
+w
+w
+d
+d
+d
+d
+s
+FRUTA 10 6
+s
+s
+a
+s
+FRUTA 11 4
+d
+d
+d
+d
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+a
+a
+a
+a
+a
+a
+FRUTA 1 3
+a
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+FRUTA 10 1
+w
+a
+a
+w
+w
+w
+w
+w
+FRUTA 9 1
+w
+FRUTA 1 1
+w
+w
+w
+w
+w
+w
+w
+w
+FRUTA 14 3
+a
+a
+a
+a
+a
+a
+a
+w
+w
+a
+a
+FRUTA 0 0
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+a
+a
+a
+FRUTA 2 8
+a
+a
+a
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+w
+FRUTA 8 6
+w
+d
+d
+d
+d
+d
+s
+s
+s
+s
+s
+s
+s
+s
+d
+d
+d
+d
+w
+FRUTA 9 10
+w
+w
+w
+d
+s
+s
+s
+s
+s
+a
+a
+a
+a
+a
+a
+a
+a
+w
+FRUTA 3 1
+a
+s
+w
+

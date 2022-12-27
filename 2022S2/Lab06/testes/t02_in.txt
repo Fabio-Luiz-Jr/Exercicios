@@ -1,0 +1,22 @@
+3 3
+FRUTA 1 2
+COBRA 2 2
+w
+FRUTA 2 1
+a
+s
+FRUTA 2 2
+d
+FRUTA 0 0
+d
+w
+w
+FRUTA 1 2
+d
+d
+s
+FRUTA 1 1
+a
+FRUTA 2 1
+w
+
