@@ -1,0 +1,16 @@
+Lembrete:::: 
+EXEC 13
+ escrever 
+relatorio 
+DEL 4
+deeeEPP
+ fisica 
+referente 
+a 
+EXEC 27
+aula 
+DEL 5
+12.
+EXEC 20
+EXEC 8
+EXIT

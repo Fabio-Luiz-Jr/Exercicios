@@ -1,0 +1,81 @@
+80
+I 1768409326 shehulk_acusada_detalhes 811
+I 1323025731 caso_wong 969
+I 1958337738 mr_grey_mandato 632
+I 1306517854 caso_romanoff_budapeste 431
+I 1956479822 caso_blip_2 178
+R 1323025731
+I 1889015881 mansao_xavier_mandato 442
+I 1782598064 zemo_acusacao 669
+I 1706625532 caso_revisao_sokovia_2 825
+T 1956479822
+C 1323025731
+I 1626444278 blonsky_reaberto 70
+R 1706625532
+I 2083450730 caso_blip_65 658
+I 1526699582 caso_blip_83 973
+R 1626444278
+I 1435852024 shehulk_vs_murdock 981
+I 1178414832 patilio_anulacao 416
+C 1526699582
+I 1590337973 caso_vibranium_namor 127
+I 2005077772 caso_barnes 475
+C 1768409326
+I 1351560639 recorrencia_titania 831
+T 1590337973
+I 2055881914 caso_acidente_banner 888
+T 1889015881
+T 1958337738
+I 1775648179 caso_parker_anulacao 641
+C 1306517854
+I 1938430215 sokovia_revisao 624
+I 1415803534 jurisdicao_wakanda 699
+T 2055881914
+I 1349671175 contrato_advocacia 524
+C 1938430215
+I 2051515825 caso_blip_182 504
+I 1273749188 homem_garras_acusacao 56
+T 1775648179
+I 1845446618 mr_imortal_caso 50
+I 1517438751 caso_dir_sword 303
+R 1273749188
+C 1435852024
+C 1706625532
+I 1134299312 caso_wakanda_vibranium 68
+I 1327642503 DODC_quebra_contrato 994
+I 1204560238 shield_caso_45 486
+C 1626444278
+I 1654065664 kamartaj_mandato 481
+I 2111438383 procuracao_shehulk 507
+R 1204560238
+I 2066893280 shehulk_dmorais 615
+I 1797327863 caso_doras_milaje 982
+T 1134299312
+I 1268185543 contrato_vingadores 776
+I 1580468212 namor_investigacao 731
+R 1797327863
+I 1013963170 invasao_priv 157
+I 1038572417 caso_blip_19 368
+I 1079179669 caso_mallory 271
+I 2135562510 caso_blip_538 265
+I 1593439062 caso_scott_lang 272
+R 1079179669
+I 1964573887 caso_blip_234 810
+I 1867518020 retiro_emil_alvara 231
+I 1245788220 rev_processo_vingadores 865
+T 2066893280
+I 1091387772 caso_259_romanoff 226
+C 1079179669
+I 1047389895 caso_blip_912 287
+I 1930605965 shehulk_nome 788
+R 1047389895
+I 1073109620 abominavel_detalhes 800
+I 1712978044 investigacao_eternos 559
+T 1930605965
+I 1264623633 sokovia_anulacao 441
+R 1264623633
+I 1223298843 caso_leap_frog 500
+I 1820357229 caso_invasao_skrull 859
+R 1415803534
+T 1820357229
+C 1415803534

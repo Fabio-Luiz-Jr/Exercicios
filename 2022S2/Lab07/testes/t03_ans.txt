@@ -1,0 +1,120 @@
+FILA ATUAL: Ingredientes 
+PILHA ATUAL: 
+####
+FILA ATUAL: Ingredientes para 
+PILHA ATUAL: 
+####
+FILA ATUAL: Ingredientes para bolo 
+PILHA ATUAL: 
+####
+FILA ATUAL: Ingredientes para bolo de 
+PILHA ATUAL: 
+####
+FILA ATUAL: Ingredientes para bolo de banana: 
+PILHA ATUAL: 
+####
+FILA ATUAL: Ingredientes para bolo de banana: fuba: 
+PILHA ATUAL: 
+####
+FILA ATUAL: bolo de banana: fuba: 
+PILHA ATUAL: Ingredientes para 
+####
+FILA ATUAL: bolo de banana: fuba: 3 
+PILHA ATUAL: Ingredientes para 
+####
+FILA ATUAL: bolo de banana: fuba: 3 ovos, 
+PILHA ATUAL: Ingredientes para 
+####
+FILA ATUAL: bolo de banana: fuba: 3 ovos, 2 
+PILHA ATUAL: Ingredientes para 
+####
+FILA ATUAL: bolo de banana: fuba: 3 ovos, 2 xicaras 
+PILHA ATUAL: Ingredientes para 
+####
+FILA ATUAL: fuba: 3 ovos, 2 xicaras 
+PILHA ATUAL: Ingredientes para bolo de banana: 
+####
+FILA ATUAL: fuba: 3 ovos, 2 xicaras (cha) 
+PILHA ATUAL: Ingredientes para bolo de banana: 
+####
+FILA ATUAL: fuba: 3 ovos, 2 xicaras (cha) de 
+PILHA ATUAL: Ingredientes para bolo de banana: 
+####
+FILA ATUAL: fuba: 3 ovos, 2 xicaras (cha) de sal, 
+PILHA ATUAL: Ingredientes para bolo de banana: 
+####
+FILA ATUAL: fuba: 3 ovos, 2 xicaras (cha) de sal, acucar, 
+PILHA ATUAL: Ingredientes para bolo de banana: 
+####
+FILA ATUAL: fuba: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras 
+PILHA ATUAL: Ingredientes para bolo de banana: 
+####
+FILA ATUAL: fuba: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) 
+PILHA ATUAL: Ingredientes para bolo de banana: 
+####
+FILA ATUAL: fuba: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) 
+PILHA ATUAL: Ingredientes para bolo de 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) 
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) de fuba
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) de fuba, 3 
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas 
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha 
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo 
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) 
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: 3 ovos, 2 xicaras (cha) de sal, acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 
+PILHA ATUAL: Ingredientes para bolo de fuba: 
+####
+FILA ATUAL: acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de sal, 
+####
+FILA ATUAL: acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de sal, 
+####
+FILA ATUAL: acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 colher 
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de sal, 
+####
+FILA ATUAL: acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 colher (sopa) de 
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de sal, 
+####
+FILA ATUAL: acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 colher (sopa) de 
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de 
+####
+FILA ATUAL: acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 colher (sopa) de fermento 
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de 
+####
+FILA ATUAL: 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 colher (sopa) de fermento 
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de acucar, 
+####
+FILA ATUAL: 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 colher (sopa) de fermento em po.
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de acucar, 
+####
+FILA ATUAL: copo de leite, 1 colher (sopa) de fermento em po.
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 
+####
+FILA ATUAL: her (sopa) de fermento em po.
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 col
+####
+FILA ATUAL: to em po.
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 colher (sopa) de fermen
+####
+FILA ATUAL: 
+PILHA ATUAL: Ingredientes para bolo de fuba: 3 ovos, 2 xicaras (cha) de acucar, 2 xicaras (cha) de fuba, 3 colheres (sopa) rasas de farinha de trigo, 1/2 copo (americano) de oleo, 1 copo de leite, 1 colher (sopa) de fermento em po.
+####

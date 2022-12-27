@@ -1,0 +1,64 @@
+Setlist 
+da 
+banda 
+Panic! 
+EXEC 17
+At the 
+Disco no 
+Rock in Rio 
+2022: 
+2019: 
+EXEC 35
+EXEC 6
+DEL 6
+EXEC 6
+1. Victorious; 
+2. Silver Lining; 
+3. A lua me traiu 
+3. Don't Threaten Me With A Good Time; 
+4. Ready To Go (Get Me Out Of My Mind); 
+5. Envolver 
+5. La Devotee; 
+EXEC 15
+EXEC 18
+EXEC 18
+DEL 18
+6. Hey Look Ma I Made It; 
+7. Hallelujah; 
+8. Crazy=Genius; 
+9. The Ballad Of Mona Lisa; 
+10. Bad romance 
+10. Nine in the Afternoon; 
+11. Girls/Girls/Boys; 
+EXEC 39
+EXEC 39
+EXEC 13
+12. Dancing's Not A Crime; 
+13. This Is Gospel; 
+DEL 12
+EXEC 15
+EXEC 26
+EXEC 15
+EXEC 45
+EXEC 16
+14. Miss Jackson (Feat. Lolo); 
+15. I Write Sins Not Tragedies; 
+16. Bohemian Rhapsody; 
+DEL 16
+17. Emperor's New Clothes; 
+18. Say Amen (Saturday Night); 
+19. poKER FACE 
+19. High Hopes
+EXEC 27
+EXEC 22
+EXEC 27
+EXEC 20
+EXEC 31
+EXEC 32
+EXEC 23
+EXEC 27
+EXEC 31
+EXEC 15
+DEL 15
+EXEC 14
+EXIT

@@ -1,0 +1,66 @@
+65
+I 1570171364 caso_blip_2 649
+I 1078701857 caso_blip_65 393
+I 1379722839 mr_imortal_caso 263
+I 1115251683 caso_mallory 142
+I 1500344217 caso_doras_milaje 545
+R 1570171364
+I 1926810718 caso_invasao_skrull 477
+I 2106169373 caso_acidente_banner 570
+I 1692414616 caso_scott_lang 995
+T 1379722839
+I 1496092696 caso_dir_sword 350
+R 1115251683
+I 1249366664 caso_barnes 589
+I 1884687421 recorrencia_titania 313
+I 1954067590 investigacao_eternos 229
+C 1115251683
+I 1974226121 mansao_xavier_mandato 642
+R 1954067590
+I 1210062093 caso_blip_83 635
+I 1997661109 caso_wong 36
+I 1122742062 caso_leap_frog 932
+C 1570171364
+I 1940067562 shehulk_dmorais 382
+I 1956775312 caso_259_romanoff 899
+R 1974226121
+I 1719262679 rev_processo_vingadores 40
+I 1479643049 caso_blip_538 422
+I 1065754452 abominavel_detalhes 160
+I 1162872553 shield_caso_45 70
+T 1210062093
+I 1023353821 caso_blip_182 200
+I 1788699622 retiro_emil_alvara 841
+I 1732967841 caso_romanoff_budapeste 981
+R 1065754452
+R 1162872553
+I 1214692090 contrato_vingadores 46
+I 1167119093 namor_investigacao 483
+I 1032841835 homem_garras_acusacao 427
+I 1375618519 invasao_priv 895
+I 1473303017 contrato_advocacia 337
+I 1351586744 caso_blip_912 370
+I 1117145374 shehulk_nome 577
+I 1915357040 sokovia_anulacao 92
+I 1039763241 patilio_anulacao 202
+I 1734129272 shehulk_acusada_detalhes 344
+I 2078747589 caso_vibranium_namor 505
+I 1957499805 zemo_acusacao 15
+I 1810341604 DODC_quebra_contrato 526
+I 1923720157 caso_blip_19 953
+I 1720642379 blonsky_reaberto 363
+C 1915357040
+R 1957499805
+T 1375618519
+C 1039763241
+T 1940067562
+R 1117145374
+C 1923720157
+T 1732967841
+R 1720642379
+R 1810341604
+C 1167119093
+C 1926810718
+C 1214692090
+C 1957499805
+T 2078747589

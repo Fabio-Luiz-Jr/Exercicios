@@ -1,0 +1,6 @@
+5
+I 1321468128 caso_wong 10
+I 1846162235 abominavel_detalhes 125
+I 1545135462 recorrencia_titania 342
+C 1321468128
+R 1545135462

@@ -1,0 +1,39 @@
+FILA ATUAL: Minha 
+PILHA ATUAL: 
+####
+FILA ATUAL: Minha terra 
+PILHA ATUAL: 
+####
+FILA ATUAL: terra 
+PILHA ATUAL: Minha 
+####
+FILA ATUAL: terra tem 
+PILHA ATUAL: Minha 
+####
+FILA ATUAL: terra tem palmeiras 
+PILHA ATUAL: Minha 
+####
+FILA ATUAL: palmeiras 
+PILHA ATUAL: Minha terra tem 
+####
+FILA ATUAL: palmeiras onde 
+PILHA ATUAL: Minha terra tem 
+####
+FILA ATUAL: palmeiras onde canta 
+PILHA ATUAL: Minha terra tem 
+####
+FILA ATUAL: palmeiras onde canta o 
+PILHA ATUAL: Minha terra tem 
+####
+FILA ATUAL:  canta o 
+PILHA ATUAL: Minha terra tem palmeiras onde
+####
+FILA ATUAL:  canta o sabiaaaa
+PILHA ATUAL: Minha terra tem palmeiras onde
+####
+FILA ATUAL: 
+PILHA ATUAL: Minha terra tem palmeiras onde canta o sabiaaaa
+####
+FILA ATUAL: 
+PILHA ATUAL: Minha terra tem palmeiras onde canta o sabia
+####

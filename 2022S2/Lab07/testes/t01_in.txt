@@ -1,0 +1,14 @@
+Minha 
+terra 
+EXEC 6
+tem 
+palmeiras 
+EXEC 10
+onde 
+canta 
+o 
+EXEC 14
+sabiaaaa
+EXEC 17
+DEL 3
+EXIT

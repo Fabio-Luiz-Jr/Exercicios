@@ -1,0 +1,12 @@
+11
+I 1037515542 abominavel_v2 56
+I 1125176107 caso_mallory 502
+I 1321468128 caso_wong 10
+I 1846162235 abominavel_detalhes 125
+I 1545135462 recorrencia_titania 342
+I 1548865512 sokovia_revisao 687
+I 1896572551 donny_blaze 20
+R 1037515542
+C 1125176107
+C 1545135462
+T 1548865512

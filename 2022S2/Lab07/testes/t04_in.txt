@@ -1,0 +1,50 @@
+Como tirar 
+mancha de 
+caneta das 
+roupas 
+escuras 
+as roupas
+? Em um pano umido, pingue 3 gotas 
+algodao, 
+pingue algumas 
+gotas de 
+detergente e passe 
+sobre a tinta 
+seca ou em 
+maior 
+quantidade 
+na roupa. 
+Ao remover 
+todo o 
+excesso, 
+aplique mais 
+detergente 
+sobre a 
+mancha QUE 
+estava na 
+roupa que voce 
+escolheu 
+para usar 
+este metodo 
+que ficou e 
+EXEC 32
+deixe agir por 
+EXEC 59
+uma hora. Depois disso, execute o mesmo passo  
+DEL 27
+EXEC 66
+Apos 
+isso, pegue o 
+EXEC 164
+DEL 60
+EXEC 73
+algodao e 
+esfregue sobre o pano umido
+sobre a mancha e 
+DEL 37
+lave normalmente.
+EXEC 39
+EXEC 18
+DEL 18
+EXEC 34
+EXIT

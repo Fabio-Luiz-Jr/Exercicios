@@ -1,0 +1,45 @@
+FILA ATUAL: Lembrete:::: 
+PILHA ATUAL: 
+####
+FILA ATUAL: 
+PILHA ATUAL: Lembrete:::: 
+####
+FILA ATUAL:  escrever 
+PILHA ATUAL: Lembrete:::: 
+####
+FILA ATUAL:  escrever relatorio 
+PILHA ATUAL: Lembrete:::: 
+####
+FILA ATUAL:  escrever relatorio 
+PILHA ATUAL: Lembrete:
+####
+FILA ATUAL:  escrever relatorio deeeEPP
+PILHA ATUAL: Lembrete:
+####
+FILA ATUAL:  escrever relatorio deeeEPP fisica 
+PILHA ATUAL: Lembrete:
+####
+FILA ATUAL:  escrever relatorio deeeEPP fisica referente 
+PILHA ATUAL: Lembrete:
+####
+FILA ATUAL:  escrever relatorio deeeEPP fisica referente a 
+PILHA ATUAL: Lembrete:
+####
+FILA ATUAL:  fisica referente a 
+PILHA ATUAL: Lembrete: escrever relatorio deeeEPP
+####
+FILA ATUAL:  fisica referente a aula 
+PILHA ATUAL: Lembrete: escrever relatorio deeeEPP
+####
+FILA ATUAL:  fisica referente a aula 
+PILHA ATUAL: Lembrete: escrever relatorio de
+####
+FILA ATUAL:  fisica referente a aula 12.
+PILHA ATUAL: Lembrete: escrever relatorio de
+####
+FILA ATUAL: aula 12.
+PILHA ATUAL: Lembrete: escrever relatorio de fisica referente a 
+####
+FILA ATUAL: 
+PILHA ATUAL: Lembrete: escrever relatorio de fisica referente a aula 12.
+####
