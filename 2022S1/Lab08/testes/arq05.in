@@ -1,0 +1,132 @@
+criar
+inserir 61
+minimo
+maximo
+inserir 67
+inserir 29
+inserir 90
+inserir 15
+inserir 97
+inserir 89
+inserir 100
+inserir 107
+inserir 51
+inserir 63
+inserir 104
+inserir 87
+inserir 46
+inserir 68
+inserir 101
+minimo
+maximo
+inserir 54
+inserir 9
+inserir 23
+inserir 78
+inserir 80
+inserir 70
+inserir 95
+inserir 22
+inserir 40
+inserir 37
+inserir 24
+inserir 86
+inserir 112
+inserir 6
+inserir 74
+inserir 75
+inserir 32
+inserir 96
+inserir 41
+inserir 55
+inserir 65
+inserir 47
+inserir 4
+inserir 20
+inserir 13
+inserir 57
+inserir 35
+minimo
+maximo
+inserir 17
+inserir 14
+inserir 27
+inserir 71
+inserir 56
+inserir 91
+inserir 33
+inserir 73
+inserir 76
+inserir 64
+inserir 38
+inserir 26
+inserir 31
+inserir 0
+inserir 198
+inserir 212
+inserir 121
+inserir 131
+inserir 162
+inserir 179
+inserir 155
+inserir 152
+inserir 196
+inserir 134
+inserir 173
+inserir 224
+minimo
+maximo
+inserir 147
+inserir 157
+inserir 190
+inserir 219
+inserir 211
+inserir 123
+inserir 205
+inserir 124
+inserir 175
+inserir 201
+inserir 195
+inserir 149
+inserir 223
+inserir 171
+inserir 185
+inserir 192
+inserir 125
+inserir 156
+inserir 166
+inserir 129
+inserir 221
+inserir 161
+inserir 138
+inserir 165
+inserir 339
+sucessor 339
+inserir 0
+predecessor 0
+minimo
+maximo
+remover 171
+remover 185
+remover 192
+remover 125
+remover 156
+remover 166
+remover 129
+maximo
+minimo
+remover 185
+remover 192
+remover 125
+remover 156
+remover 166
+remover 129
+remover 221
+remover 161
+maximo
+minimo
+info
+in-ordem
+pre-ordem
+pos-ordem
+terminar
